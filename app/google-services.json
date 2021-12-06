@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66949934609",
+    "project_id": "fir-test-c1b38",
+    "storage_bucket": "fir-test-c1b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66949934609:android:21ea4b6054ab82eac78bb0",
+        "android_client_info": {
+          "package_name": "nl.gblokict.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66949934609-c07mp2f4c8vd6l4frfhmt74m0e6c53q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHmXw8McE6d5dFKIz12zj_DRUzt-zF1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66949934609-c07mp2f4c8vd6l4frfhmt74m0e6c53q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
